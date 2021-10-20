@@ -1,0 +1,19 @@
+Para poder hacer uso de esté código es necesario seguir estos pasos:
+1-Instalar Python
+  -https://www.python.org/downloads/
+   Descargamos y ejecutamos el instalador
+	en el cmd comprobamos con python --version
+2-Instar Django
+	en el cmd ejecutamos pip install Django==3.2.8
+	comprobamos con python -m django --version
+3-Instalar Pillow
+	python -m pip install Pillow
+
+4- En cmd vamos a la ruta donde está el proyecto en mi caso
+	C:\Users\pc1\Desktop\ceco\pr1>
+
+5- En cmd ejecutamos
+	python manage.py runserver
+
+6- Accedemos en el navegador web a 127.0.0.1:8000
+	
